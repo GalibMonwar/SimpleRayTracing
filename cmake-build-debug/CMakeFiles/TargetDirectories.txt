@@ -1,0 +1,3 @@
+C:/Users/Galib/CLionProjects/SimpleRayTracing/cmake-build-debug/CMakeFiles/SimpleRayTracing.dir
+C:/Users/Galib/CLionProjects/SimpleRayTracing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Galib/CLionProjects/SimpleRayTracing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
