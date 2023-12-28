@@ -3,4 +3,4 @@ project(SimpleRayTracing)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(SimpleRayTracing main.cpp)
+add_executable(SimpleRayTracing main.cpp geometry.h)
